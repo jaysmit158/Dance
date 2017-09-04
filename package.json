@@ -1,0 +1,19 @@
+{
+  "name": "dance",
+  "version": "1.0.0",
+  "description": "extending classes es6",
+  "main": "dancer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysmit158/Dance.git"
+  },
+  "author": "jordan smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaysmit158/Dance/issues"
+  },
+  "homepage": "https://github.com/jaysmit158/Dance#readme"
+}
