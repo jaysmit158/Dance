@@ -44,5 +44,5 @@ class Student extends Person {
 }
 
 let stevenJ = new Student({ name: 'Steven', age: 22, interestLevel:3 });
-stevenJ.dance(false);
+stevenJ.dance(true);
 console.log(stevenJ.interestLevel);
